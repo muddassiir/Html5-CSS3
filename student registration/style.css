@@ -1,0 +1,33 @@
+.reg
+{
+    text-decoration: underline;
+    color: rgb(106, 60, 212);
+    text-align: center;
+}
+div
+{
+    width: 55%;
+    margin: auto;
+}
+.form
+{
+    background-color : rgb(106, 60, 212);
+    width: 50%;
+    margin: auto;
+}
+img
+{
+    width: 70%;
+    margin-top:5%; 
+}
+
+.form th,.form td
+{
+    width: 10%;
+    text-align: left;
+    color: white;
+}
+.form td
+{
+    height: 30px;
+}
